@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 
-Hi — I'm **aegisSoft**, also known as **MrSpy00**.  
+Hi — I'm **aegis**, also known as **MrSpy00**.  
 
 Cybersecurity enthusiast, software enthusiast and community leader.  
 
