@@ -24,7 +24,7 @@
 
 Hi — I'm **aegisSoft**, also known as **MrSpy00**.  
 
-Cybersecurity enthusiast, software developer and community leader from Türkiye.  
+Cybersecurity enthusiast, software enthusiast and community leader.  
 
 I work on **offensive security research**, custom Linux distributions, open-source tooling and systems programming. Building and leading communities is a big part of what I do.
 
