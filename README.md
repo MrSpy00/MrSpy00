@@ -11,7 +11,7 @@
 
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=MrSpy00&label=Profile%20views&color=00FF88&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MrSpy00&label=Profile%20views&color=710193&style=flat" alt="Profile views" />
   </p>
 
 </div>
