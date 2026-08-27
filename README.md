@@ -5,7 +5,7 @@
 
   <br><br>
 
-  <h1>Hi 👋, I'm <strong>aegisSoft</strong></h1>
+  <h1>Hi 👋, I'm <strong>aegis</strong></h1>
   <h3>also known as <code>MrSpy00</code></h3>
 
   <p>
