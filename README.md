@@ -4,12 +4,11 @@
 
   <br><br>
 
-  <h1>Hi 👋, I'm <strong>aegisSoft</strong></h1>
+  <h1>Hi 👋, I'm <strong>aegis</strong></h1>
   <h3>also known as <code>MrSpy00</code></h3>
 
   <p><strong>Cybersecurity Enthusiast • Software Developer • Community Leader</strong></p>
 
-  <p><em>"To break a system, you must first understand how it was built."</em></p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=MrSpy00&label=Profile%20views&color=00FF88&style=flat" alt="Profile views" />
@@ -20,10 +19,6 @@
 ---
 
 ### 💫 About Me
-
-Hi — I'm **aegisSoft**, also known as **MrSpy00**.  
-
-Cybersecurity enthusiast, software developer and community leader from Türkiye.  
 
 I work on **offensive security research**, custom Linux distributions, open-source tooling and systems programming. Building and leading communities is a big part of what I do.
 
@@ -70,10 +65,6 @@ I work on **offensive security research**, custom Linux distributions, open-sour
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrSpy00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=MrSpy00&icon=2&color=5)](https://visitcount.itsvg.in)
-
----
 
 <div align="center">
   <br>
