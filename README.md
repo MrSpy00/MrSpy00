@@ -9,11 +9,7 @@
   <h3>also known as <code>MrSpy00</code></h3>
 
   <p>
-    <strong>Cybersecurity Enthusiast • Software Developer • Community Leader</strong>
-  </p>
-
-  <p>
-    <em>"To break a system, you must first understand how it was built."</em>
+    <strong>Cybersecurity Enthusiast • Software Enthusiast • Community Leader</strong>
   </p>
 
   <p>
