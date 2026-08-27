@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi — I'm **aegis**, also known as **MrSpy00**.  <br>Cybersecurity enthusiast, software enthusiast and community leader.<br><br>I work on offensive security research, custom Linux distributions, open-source tooling and systems programming. Building and leading communities is a big part of what I do.<br><br>>
+Hi — I'm **aegis**, also known as **MrSpy00**.  <br>Cybersecurity enthusiast, software enthusiast and community leader.<br><br>I work on offensive security research, custom Linux distributions, open-source tooling and systems programming. Building and leading communities is a big part of what I do.<br><br>
 
 
 ## 🌐 Socials:
